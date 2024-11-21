@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rukotanafreddy250
 - 👀 I’m interested in javaScript
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs, Vue.js
 - 💞️ I’m looking to collaborate on My future App (learning App)
 - 📫 How to reach me rukotanafreddy@gmail.com
 
